@@ -1,0 +1,329 @@
+/*
+hayo ngapain hayo :v
+*/
+body {
+    background-color: white;
+}
+a {
+    text-decoration: none;
+    color: darkblue;
+    font-weight: bold;
+}
+a:hover {
+    color: black;
+    font-weight: bolder;
+}
+.navbar {
+    background: linear-gradient(158deg, #99a3ff, rgb(0, 0, 255), rgb(0, 0, 100));
+    padding: 20px;
+    margin: -10px;
+}
+.navbar > h2 {
+    float: left;
+    font-family: 'Lucida Sans';
+    margin-left: 10px;
+    color: white;
+}
+.navbar > img {
+    float: left;
+    width: 54px;
+    height: 54px;
+}
+.navbar > ul {
+    text-align: right;
+}
+.navbar > ul > li {
+    list-style: none;
+    display: inline-block;
+    margin-left: 20px;
+}
+.navbar > ul > li > a {
+    text-decoration: none;
+    color: white;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+}
+.navbar > ul > li > a:hover {
+    color: rgb(189, 189, 189);
+}
+.first-header {
+    background-image: url(image/header.png);
+    background-repeat: no-repeat;
+    padding: 338px;
+    margin: -10px;
+}
+.first-header > p {
+    color: white;
+    font-size: large;
+    font-family: Verdana;
+    text-align: center;
+}
+.header-button {
+    text-align: center;
+}
+.header-button > a > button {
+    background: none;
+    color: blue;
+    border: none;
+}
+.header-button > a > button:hover {
+    background-color: purple;
+    color: white;
+    border-radius: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.header-title {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+    font-weight: bolder;
+    font-size: x-large;
+}
+#lang > a > img {
+    width: 50px;
+    vertical-align: middle;
+}
+.header-title-0 {
+    background-color: lime;
+    padding: 2px;
+    margin: -10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+.header-title-1 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.float-p-0 {
+    padding: 20px;
+}
+.float-p-0 > p {
+    font-family: 'Open Sans';
+}
+.float-p-0 > img {
+    float: left;
+    width: 300px;
+    margin-right: 10px;
+    text-align: center;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+.element-btn-0 {
+    text-align: center;
+}
+.element-btn-0 > a {
+    text-decoration: none;
+    color: black;
+}
+.element-btn-0 > a > button {
+    background-color: white;
+    border-color: black;
+    padding: 12px;
+}
+.element-btn-0 > a > button > b {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.element-btn-0 > a > button:hover {
+    box-shadow: 0px 0px 5px 1px #bdbdbd;
+}
+.bgbody-1 {
+    background-color: purple;
+    margin: -10px;
+    padding: 30px;
+}
+.float-p-1 > img {
+    float: right;
+    width: 300px;
+    margin-left: 10px;
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+.float-p-1 > p {
+    color: white;
+}
+.element-btn-1 {
+    text-align: center;
+}
+.element-btn-1 > a {
+    text-decoration: none;
+    color: black;
+}
+.element-btn-1 > a > button {
+    background-color: purple;
+    border-color: black;
+    padding: 12px;
+}
+.element-btn-1 > a > button > b {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.element-btn-1 > a > button:hover {
+    box-shadow: 0px 0px 5px 1px rgb(71, 0, 71);
+}
+.bgbody-2 {
+    background-color: darkblue;
+    margin: -10px;
+    padding: 30px;
+}
+#white {
+    color: white;
+}
+.element-btn-2 {
+    text-align: center;
+}
+.element-btn-2 > a {
+    text-decoration: none;
+    color: black;
+}
+.element-btn-2 > a > button {
+    background-color: darkblue;
+    border-color: black;
+    padding: 12px;
+}
+.element-btn-2 > a > button > b {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.element-btn-2 > a > button:hover {
+    box-shadow: 0px 0px 5px 1px rgb(0, 0, 77);
+}
+.bgbody-3 {
+    background-color: yellow;
+    margin: -10px;
+    padding: 30px;
+}
+.bgbody-4 {
+    background-color: red;
+    margin: -10px;
+    padding: 30px;
+}
+.element-btn-3 {
+    text-align: center;
+}
+.element-btn-3 > a {
+    text-decoration: none;
+    color: black;
+}
+.element-btn-3 > a > button {
+    background-color: red;
+    border-color: black;
+    padding: 12px;
+}
+.element-btn-3 > a > button > b {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.element-btn-3 > a > button:hover {
+    box-shadow: 0px 0px 5px 1px rgb(151, 0, 0);
+}
+.header-title-undertale {
+    text-align: center;
+    font-family: "8bitOperatorPlus-Bold", monospace;
+}
+.end {
+    text-align: center;
+    font-family: 'Lucida Sans';
+    margin: 70px;
+    font-size: smaller;
+}
+.normal-p {
+    font-family: sans-serif, monospace, 8bit;
+    margin: -10px;
+    padding: 30px;
+}
+.bgbody-5 {
+    background-color: black;
+    border-style: solid;
+    border-width: 10px;
+    border-color: white;
+    color: white;
+    margin: 30px;
+    padding-bottom: 120px;
+}
+.bgbody-5 > h1 {
+    font-family: 'Undertale';
+}
+.bgbody-5 > img {
+    float: left;
+    width: 180px;
+}
+/*
+What are you doing?
+what are you looking at?
+want to know. lest you want to know what the Undertale font is
+*/
+/*
+Apa yg lu lakuin?
+Apa lu liat-liat >:V
+kepo amat. jangan-jangan mau liat font Undertale nih:v
+*/
+@font-face {
+    font-family: 'Undertale';
+    src: url('http://vignette2.wikia.nocookie.net/heliosanctus/images/c/c0/Determination.eot');
+    src: url('http://vignette2.wikia.nocookie.net/heliosanctus/images/c/c0/Determination.eot?#iefix') format('embedded-opentype'),
+         url('http://vignette3.wikia.nocookie.net/heliosanctus/images/a/aa/Determination.woff2') format('woff2'),
+         url('http://vignette3.wikia.nocookie.net/heliosanctus/images/3/37/Determination.woff') format('woff'),
+         url('http://vignette2.wikia.nocookie.net/heliosanctus/images/c/cd/Determination.ttf') format('truetype'),
+         url('http://vignette3.wikia.nocookie.net/heliosanctus/images/7/7f/Determination.svg#Undertale') format('svg');
+}
+.sosmed {
+    text-align: center;
+}
+.sosmed > a > img {
+    height: 40px;
+    margin-left: 5px;
+}
+.copyright {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.bgbody-new-0 {
+    background-color: magenta;
+    margin: -10px;
+    padding: 30px;
+}
+.download-link {
+    text-align: center;
+}
+.download-link > a {
+    text-decoration: none;
+    color: black;
+}
+.download-link > a > button {
+    background: none;
+    border-color: black;
+    padding: 12px;
+}
+.download-link > a > button > b {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.download-link > a > button:hover {
+    box-shadow: 0px 0px 5px 1px #000000;
+}
+.bgbody-download {
+    padding: 23px;
+    margin: -10px;
+    text-align: center;
+    background-color: orange;
+}
+.download-img {
+    margin: 30px;
+}
+.download-img > img {
+    width: 400px;
+    margin: 20px;
+}
+.download-btn > a > button {
+    font-size: larger;
+    font-family: Courier;
+    color: white;
+    background-color: rgb(39, 39, 39);
+    border: none;
+    padding: 15px;
+}
+.download-btn {
+    margin: 30px;
+}
+.download-btn > a > button:hover {
+    color: rgb(185, 185, 185);
+    background-color: black;
+}
+.bgbody-download > marquee {
+    color: white;
+}
