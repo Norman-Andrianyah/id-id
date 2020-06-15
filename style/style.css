@@ -49,7 +49,7 @@ a:hover {
 .first-header {
     background-image: url(image/header.png);
     background-repeat: no-repeat;
-    padding: 338px;
+    padding: 288px;
     margin: -10px;
 }
 .first-header > p {
