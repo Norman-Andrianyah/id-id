@@ -46,6 +46,9 @@ a:hover {
 .navbar > ul > li > a:hover {
     color: rgb(189, 189, 189);
 }
+.navbar > ul > li > a:active {
+    color: yellow;
+}
 .first-header {
     background-image: url(image/header.png);
     background-repeat: no-repeat;
@@ -72,6 +75,9 @@ a:hover {
     border-radius: 10px;
     padding-left: 10px;
     padding-right: 10px;
+}
+.header-button > a > button:active {
+    background-color: yellow;
 }
 .header-title {
     text-align: center;
